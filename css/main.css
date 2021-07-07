@@ -1,4 +1,4 @@
-
+et
 @import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital@1&display=swap');
  
 body {
@@ -6,7 +6,7 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family:"DomaineDisplayNarrow",Georgia,serif;
+    font-family:"helvetica, sansserif;
     padding: 0px;
     list-style: none;
     font-weight: bold;
