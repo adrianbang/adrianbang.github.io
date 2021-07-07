@@ -1,5 +1,5 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Bellefair&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital@1&display=swap');
  
 body {
     margin: 60px auto;
@@ -24,7 +24,7 @@ a:hover {
 }
 h1 {
     font-size: 6em;
-    font-family: 'Bellefair', serif;
+    font-family: 'Libre Baskerville', serif;
 }
 p {
     font-size: 1.5em;
