@@ -1,3 +1,7 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Bellefair&display=swap');
+</style>
+
 body {
     margin: 60px auto;
     width: 70%;
@@ -21,7 +25,7 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family:"DomaineDisplayNarrow",Georgia,serif;
+    font-family: 'Bellefair', serif;
 }
 p {
     font-size: 1.5em;
